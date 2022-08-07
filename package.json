@@ -1,0 +1,11 @@
+{
+  "name": "maepalindrome",
+  "version": "1.0.0",
+  "description": "Calulates whether or not a piece of string is a palindrome by returning a boolean of true or false.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mark A. Edwards",
+  "license": "ISC"
+}
